@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>A4ACD6904673881B3220776584033B0D</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Драконий остров</title>
+			<author>Шушкарт</author>
+			<language>ru</language>
+			<headline>Текстовая РПГ</headline>
+			<firstpublished>2016-12-21</firstpublished>
+			<genre>Фэнтези</genre>
+			<group>URQ</group>
+			<description>Человечество стоит на грани самоуничтожения. Войны за единственный магический ресурс истощили землю. Но судьба предоставила нашему герою шанс все исправить. Воспользуется ли он им? Смогут ли люди жить в мире и спокойствии? Ответы на эти вопросы вы сможете найти в новой текстовой РПГ от никому не известного автора.</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#support</url>
+			<authoremail>shushkart@gmail.com</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-25</originated>
+		</colophon>
+	</story>
+</ifindex>
