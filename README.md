@@ -4,7 +4,7 @@ Text-based game "Dragon Island" (Russian: "Драконий остров") by Sh
 
 The game is in Russian and developed for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#support).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=support).
 
 The game was first published on December 21, 2016.
 
